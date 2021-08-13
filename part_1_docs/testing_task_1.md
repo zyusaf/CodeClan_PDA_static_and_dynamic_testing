@@ -33,7 +33,7 @@ class CardGame:
   else:
     return card2
 
-# total has no value, return needs to be outside the four loop, add a space after "total of" change + str(total)
+# The indentation means this function sits outside the class total has no value, return needs to be outside the four loop, add a space after "total of" change + str(total)
 
 def cards_total(self, cards):
   total
